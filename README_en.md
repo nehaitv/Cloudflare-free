@@ -1,6 +1,5 @@
 # Cloudflare-free
-
-A tool to bypass Cloudflare protection.
+Bypassing the annoying Cloudflare anti-scraping mechanism
 
 #### Social Media
 Twitter: @momonogikana_mg
