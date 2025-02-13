@@ -1,0 +1,6 @@
+DrissionPage>=4.0.0  # 用于浏览器自动化
+PyAutoGUI>=0.9.54    # 用于屏幕图像识别和鼠标控制
+opencv-python>=4.8.0  # PyAutoGUI的图像识别依赖
+Pillow>=10.0.0       # 图像处理库，PyAutoGUI依赖
+pyvirtualdisplay>=3.0  # 用于headless模式下的虚拟显示
+python-dotenv>=1.0.0  # 用于环境变量管理 
